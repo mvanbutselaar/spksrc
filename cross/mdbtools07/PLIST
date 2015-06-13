@@ -1,0 +1,16 @@
+bin:bin/mdb-array
+bin:bin/mdb-export
+bin:bin/mdb-header
+bin:bin/mdb-hexdump
+bin:bin/mdb-parsecsv
+bin:bin/mdb-prop
+bin:bin/mdb-schema
+bin:bin/mdb-sql
+bin:bin/mdb-tables
+bin:bin/mdb-ver
+lnk:lib/libmdb.so
+lnk:lib/libmdb.so.2
+lib:lib/libmdb.so.2.0.1
+lnk:lib/libmdbsql.so
+lnk:lib/libmdbsql.so.2
+lib:lib/libmdbsql.so.2.0.0

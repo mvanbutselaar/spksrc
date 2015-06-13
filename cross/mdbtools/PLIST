@@ -1,0 +1,15 @@
+lnk:lib/libmdb.so
+lnk:lib/libmdb.so.1
+lib:lib/libmdb.so.1.0.0
+lnk:lib/libmdbsql.so
+lib:lib/libmdbsql.so.1.0.0
+bin:bin/mdb-array
+bin:bin/mdb-export
+bin:bin/mdb-header
+bin:bin/mdb-hexdump
+bin:bin/mdb-parsecsv
+bin:bin/mdb-prop
+bin:bin/mdb-schema
+bin:bin/mdb-sql
+bin:bin/mdb-tables
+bin:bin/mdb-ver
